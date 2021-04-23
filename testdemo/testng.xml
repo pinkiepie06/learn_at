@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Default Suite">
+    <test name="testdemo">
+        <parameter name="username"  value="rsemakin@neoflex.ru" />
+        <parameter name="password"  value="Secure_password_neo" />
+        <parameter name="baseURL"  value="https://ya.ru/" />
+        <classes>
+            <class name="Annotations">
+                <methods>
+                    <include name="testDemo2"/>
+                </methods>
+            </class> <!-- Annotations -->
+        </classes>
+    </test> <!-- testdemo -->
+</suite> <!-- Default Suite -->
