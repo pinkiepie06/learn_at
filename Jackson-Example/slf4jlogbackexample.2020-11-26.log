@@ -1,0 +1,56 @@
+26.11.2020 13:41:41.525 [main] INFO   Slf4j.Logger.Log - {"system":"cb","currency":"RU","rate":8.0}
+26.11.2020 15:21:22.943 [main] INFO   Slf4j.Logger.Log - Отправка Post на добавление/обновление записи: {"system":"cb","currency":"RU","rate":8.0}
+26.11.2020 15:21:30.297 [main] INFO   Slf4j.Logger.Log - Отправка Post на добавление/обновление записи: {"system":"cb","currency":"RU","rate":8.0}
+26.11.2020 15:22:05.367 [main] INFO   Slf4j.Logger.Log - Отправка Post на добавление/обновление записи: {"system":"cb","currency":"RU","rate":8.0}
+26.11.2020 15:38:03.291 [main] INFO   Slf4j.Logger.Log - Отправка Post на добавление/обновление записи: {"system":"cb","currency":"RU","rate":8.0}
+26.11.2020 15:38:04.960 [main] INFO   Slf4j.Logger.Log - Проверка выполнения запроса
+26.11.2020 15:38:52.053 [main] INFO   Slf4j.Logger.Log - Отправка Post на добавление/обновление записи: {"system":"cb","currency":"RU","rate":8.0}
+26.11.2020 15:38:53.633 [main] INFO   Slf4j.Logger.Log - Проверка выполнения запроса
+26.11.2020 15:38:54.039 [main] INFO   Slf4j.Logger.Log - Запрос был выполнен - код ответа: 0
+26.11.2020 15:39:28.063 [main] INFO   Slf4j.Logger.Log - Отправка Post на добавление/обновление записи: {"system":"cb","currency":"RU","rate":8.0}
+26.11.2020 15:39:29.612 [main] INFO   Slf4j.Logger.Log - Проверка выполнения запроса
+26.11.2020 17:30:12.505 [main] INFO   Slf4j.Logger.Log - Отправка Post на добавление/обновление записи: {"system":"cb","currency":"RU","rate":8.0}
+26.11.2020 17:30:14.316 [main] INFO   Slf4j.Logger.Log - Проверка выполнения запроса
+26.11.2020 17:30:14.881 [main] INFO   Slf4j.Logger.Log - Запрос был выполнен - код ответа: 0
+26.11.2020 17:32:57.286 [main] INFO   Slf4j.Logger.Log - Отправка Post на добавление/обновление записи: {"system":"cb","currency":"RU","rate":8.0}
+26.11.2020 17:32:58.927 [main] INFO   Slf4j.Logger.Log - Проверка выполнения запроса
+26.11.2020 17:32:59.305 [main] INFO   Slf4j.Logger.Log - Запрос был выполнен - код ответа: 0
+26.11.2020 17:34:17.826 [main] INFO   Slf4j.Logger.Log - Отправка Post на добавление/обновление записи: {"system":"cb","currency":"RU","rate":8.0}
+26.11.2020 17:34:19.493 [main] INFO   Slf4j.Logger.Log - Проверка выполнения запроса
+26.11.2020 17:37:41.629 [main] INFO   Slf4j.Logger.Log - Отправка Post на добавление/обновление записи: {"system":"cb","currency":"RU","rate":8.0}
+26.11.2020 17:37:43.287 [main] INFO   Slf4j.Logger.Log - Проверка выполнения запроса
+26.11.2020 17:38:20.137 [main] INFO   Slf4j.Logger.Log - Отправка Post на добавление/обновление записи: {"system":"cb","currency":"RU","rate":8.0}
+26.11.2020 17:38:21.704 [main] INFO   Slf4j.Logger.Log - Проверка выполнения запроса
+26.11.2020 17:38:55.088 [main] INFO   Slf4j.Logger.Log - Отправка Post на добавление/обновление записи: {"system":"cb","currency":"RU","rate":8.0}
+26.11.2020 17:38:56.641 [main] INFO   Slf4j.Logger.Log - Проверка выполнения запроса
+26.11.2020 17:38:57.034 [main] ERROR  Slf4j.Logger.Log - Ошибка - Запрос не выполнен
+26.11.2020 17:39:28.035 [main] INFO   Slf4j.Logger.Log - Отправка Post на добавление/обновление записи: {"system":"cb","currency":"RU","rate":8.0}
+26.11.2020 17:39:29.617 [main] INFO   Slf4j.Logger.Log - Проверка выполнения запроса
+26.11.2020 17:39:29.950 [main] ERROR  Slf4j.Logger.Log - Ошибка - Запрос не выполнен
+26.11.2020 17:52:35.883 [main] INFO   Slf4j.Logger.Log - Отправка Post на добавление/обновление записи: {"system":"cb","currency":"RU","rate":8.0}
+26.11.2020 17:52:37.713 [main] INFO   Slf4j.Logger.Log - Проверка выполнения запроса
+26.11.2020 17:56:16.793 [main] INFO   Slf4j.Logger.Log - Отправка Post на добавление/обновление записи: {"system":"cb","currency":"RU","rate":8.0}
+26.11.2020 17:56:18.505 [main] INFO   Slf4j.Logger.Log - Проверка выполнения запроса
+26.11.2020 17:56:18.854 [main] ERROR  Slf4j.Logger.Log - Запрос не выполнен
+26.11.2020 18:30:48.494 [main] INFO   Slf4j.Logger.Log - [jacksonExample.models.CBRates@6aa648b9]
+26.11.2020 18:33:23.376 [main] INFO   Slf4j.Logger.Log - [jacksonExample.models.CBRates@6aa648b9]
+26.11.2020 18:38:10.262 [main] INFO   Slf4j.Logger.Log - io.restassured.path.json.JsonPath@5f7f2382
+26.11.2020 18:41:12.724 [main] INFO   Slf4j.Logger.Log - [[system:cb, rate:10.0, currency:RU, id:1]]
+26.11.2020 18:42:09.784 [main] INFO   Slf4j.Logger.Log - [[system:cb, rate:10.0, currency:RU, id:1]]
+26.11.2020 18:42:45.823 [main] INFO   Slf4j.Logger.Log - io.restassured.path.json.JsonPath@7e1a1da6
+26.11.2020 18:43:28.677 [main] INFO   Slf4j.Logger.Log - [[system:cb, rate:10.0, currency:RU, id:1]]
+26.11.2020 18:52:59.602 [main] INFO   Slf4j.Logger.Log - [jacksonExample.models.CBRates@23c650a3]
+26.11.2020 18:54:51.927 [main] INFO   Slf4j.Logger.Log - [{"system":"cb","rate":10.0,"currency":"RU"}]
+26.11.2020 18:58:13.547 [main] INFO   Slf4j.Logger.Log - "io.restassured.path.json.JsonPath@7e1a1da6"
+26.11.2020 18:58:52.118 [main] INFO   Slf4j.Logger.Log - [{"system":"cb","rate":10.0,"currency":"RU"}]
+26.11.2020 18:59:18.219 [main] INFO   Slf4j.Logger.Log - [{"system":"cb","rate":10.0,"currency":"RU"}]
+26.11.2020 18:59:18.222 [main] INFO   Slf4j.Logger.Log - jacksonExample.models.CBRates@771158fb
+26.11.2020 19:04:32.925 [main] INFO   Slf4j.Logger.Log - Ответ от сервиса: [{"system":"cb","rate":10.0,"currency":"RU"}]
+26.11.2020 19:05:14.456 [main] INFO   Slf4j.Logger.Log - Ответ от сервиса: [{"system":"cb","rate":10.0,"currency":"RU"}]
+26.11.2020 19:05:14.458 [main] INFO   Slf4j.Logger.Log - Ожидаемый ответ: jacksonExample.models.CBRates@91c4a3f
+26.11.2020 19:05:29.910 [main] INFO   Slf4j.Logger.Log - Ответ от сервиса: [{"system":"cb","rate":10.0,"currency":"RU"}]
+26.11.2020 19:05:29.913 [main] INFO   Slf4j.Logger.Log - Ожидаемый ответ: cb
+26.11.2020 19:05:53.348 [main] INFO   Slf4j.Logger.Log - Ответ от сервиса: [{"system":"cb","rate":10.0,"currency":"RU"}]
+26.11.2020 19:05:53.351 [main] INFO   Slf4j.Logger.Log - Ожидаемый ответ: class jacksonExample.models.CBRates
+26.11.2020 19:07:36.906 [main] INFO   Slf4j.Logger.Log - Ответ от сервиса: [{"system":"cb","rate":10.0,"currency":"RU"}]
+26.11.2020 19:07:36.909 [main] INFO   Slf4j.Logger.Log - Ожидаемый ответ: jacksonExample.models.CBRates@91c4a3f

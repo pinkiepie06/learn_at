@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Default Suite">
+    <test name="task2">
+        <parameter name="username"  value="Eugenia" />
+        <parameter name="city"  value="Saratov" />
+        <classes>
+            <class name="taskAnnotations">
+                <methods>
+                    <include name="testAuto1"/>
+                </methods>
+            </class> <!-- Annotations -->
+        </classes>
+    </test> <!-- testdemo -->
+</suite> <!-- Default Suite -->
